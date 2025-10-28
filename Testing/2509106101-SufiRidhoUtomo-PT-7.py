@@ -1,5 +1,5 @@
 import os
-os.system()
+os.system("cls")
 
 users = {
     'Admin': {'password': 'Sufi123', 'role': 'admin'},
